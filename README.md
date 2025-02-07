@@ -45,9 +45,10 @@
 
 ---
 
+
 ## 🐍 Snake Eating Contribution Graph  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PathToPrecision/PathToPrecision/main/assets/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/PathToPrecision/PathToPrecision/output/github-contribution-grid-snake.svg" />
 </p>
 
 
