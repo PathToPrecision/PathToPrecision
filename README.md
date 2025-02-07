@@ -40,7 +40,7 @@
 
 ## 📊 3D Yearly Contribution Bar  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=&theme=github" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PathToPrecision&theme=github" />
 </p>
 
 ---
