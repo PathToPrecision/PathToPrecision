@@ -59,9 +59,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PathToPrecision)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amardeep.sarkarrr@gmail.com)
 
----
 
-### 🚀 **How to Add the Snake Animation?**
-1. Create a **new branch** named `output`:  
-   ```sh
-   git checkout -b output
